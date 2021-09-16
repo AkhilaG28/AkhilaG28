@@ -7,6 +7,7 @@
 
 ## About me
 - 😄 I'm an Electrical Engineer by degree but a Developer by passion. 
+- 🌱 Currently working as an Associate at StackBox.
 - 📫 [How to reach me]:(mailto:gakhila281994@gmail.com)
 - ⚡ Fun fact: I love gardening and singing.
 
